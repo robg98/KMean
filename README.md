@@ -9,3 +9,4 @@ Features:
 Technologies:
 - Matplotlib
 - Pandas
+- Scikit-learn
